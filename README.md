@@ -49,13 +49,15 @@ Currently learning and applying:
 
 ### 📂 Projects
 
-- 📚 [**biblioteca-springboot**](https://github.com/cauaadev/biblioteca-springboot)  
-  A library management system using Spring Boot and RESTful APIs
+- 📚 [biblioteca-springboot](https://github.com/cauaadev/biblioteca-springboot)  
+A library management system built with Spring Boot.
 
-- 🧱 **Minecraft-style Java game** (in progress)  
-  A personal project focused on learning game logic, OOP, and Java fundamentals
+- 🏦 [sistemaBancarioSimples](https://github.com/cauaadev/sistemaBancarioSimples)  
+Simple banking system with two operations (withdraw and deposit), exception handling, buffer cleaning, and String methods.
 
----
+- ⏲️ [TimerJS](https://github.com/cauaadev/TimerJS)  
+Simple timer built with JavaScript, HTML, and CSS.
+
 
 ### 📬 Contact
 
