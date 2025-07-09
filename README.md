@@ -8,20 +8,20 @@
 🎓 **Computer Science** @ IBMR  
 🎓 **Software Development (ADS)** @ Estácio  
 💻 Focused on **Back-End Development** using Java and Spring Boot  
-📍 Based in Brazil, 17 years old
+📍 Based in Brazil, 18 years old
 
 ---
 
 ### 🚀 About Me
 
-I enjoy building real-world solutions using code. My main focus is on the back-end: APIs, authentication, clean architecture, and efficient database interaction.
+I enjoy building real-world solutions using code. My main focus is on the back-end: APIs, security, clean architecture, and efficient database interaction.
 
 Currently learning and applying:
-
-- Spring Security with JWT  
-- Java Collections, Streams, Lambdas  
-- JUnit, Docker and AWS (in progress)
-
+- Spring Security
+- Unit testing with JUnit
+- Git and GitHub for version control and work with a squad!
+- Linux
+- Docker
 ---
 
 ### 🧰 Tech Stack
