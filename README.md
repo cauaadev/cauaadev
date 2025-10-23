@@ -1,30 +1,36 @@
 <h1 align="center">Cauã Souza</h1>
 <p align="center">
-  Back-End Developer | Java & Spring Boot Enthusiast
+  Desenvolvedor Back-End • Java & Spring Boot
 </p>
 
 ---
 
-🎓 **Computer Science** @ IBMR  
-🎓 **Software Development (ADS)** @ Estácio  
-💻 Focused on **Back-End Development** using Java and Spring Boot  
-📍 Based in Brazil, 18 years old
+🎓 Ciência da Computação — IBMR  
+🎓 Análise e Desenvolvimento de Sistemas — Estácio  
+💻 Foco em Back-End com Java e Spring Boot  
+📍 Brasil • 18 anos
 
 ---
 
-### 🚀 About Me
+### 🚀 Sobre mim
 
-I enjoy building real-world solutions using code. My main focus is on the back-end: APIs, security, clean architecture, and efficient database interaction.
+Gosto de transformar problemas reais em soluções simples e eficientes. Meu foco é back-end: APIs REST com Java e Spring Boot, segurança, organização de código e interação consistente com banco de dados.
 
-Currently learning and applying:
+Atualmente estudando e aplicando:
 - Spring Security
-- Unit testing with JUnit
-- Git and GitHub for version control and work with a squad!
+- Testes (JUnit)
+- Git e GitHub (fluxo de trabalho em equipe)
 - Linux
 - Docker
+
+Como trabalho:
+- Código limpo e padronizado
+- Boas práticas (camadas bem definidas, DTOs/validações, tratamento de erros)
+- Comunicação clara e foco em entregar valor
+
 ---
 
-### 🧰 Tech Stack
+### 🧰 Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
@@ -40,19 +46,20 @@ Currently learning and applying:
 
 ---
 
-### 📂 Projects
+### 📂 Projetos
 
 - 📚 [biblioteca-springboot](https://github.com/cauaadev/biblioteca-springboot)  
-A library management system built with Spring Boot.
+  Sistema de gerenciamento de biblioteca com foco em acervo, empréstimos e reservas. Projeto pensado para uma API organizada e extensível.
 
 - 🏦 [sistemaBancarioSimples](https://github.com/cauaadev/sistemaBancarioSimples)  
-Simple banking system with two operations (withdraw and deposit), exception handling, buffer cleaning, and String methods.
+  Simulação bancária com operações de saque e depósito, tratamento de exceções e uso de conceitos básicos de OO.
 
 - ⏲️ [TimerJS](https://github.com/cauaadev/TimerJS)  
-Simple timer built with JavaScript, HTML, and CSS.
+  Timer simples em JavaScript, HTML e CSS.
 
+---
 
-### 📬 Contact
+### 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauadiniz/)  
 📫 cauasouzadev@gmail.com
