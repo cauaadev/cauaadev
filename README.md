@@ -70,9 +70,6 @@ Gosto de entender a teoria por trás do que estou fazendo. Não me contento só 
 
 ### 📂 Projetos
 
-**[📄 relatorio-psicologo](https://github.com/cauaadev/relatorio-psicologo)**
-API REST para geração automatizada de relatórios psicológicos em PDF. Python, Flask, ReportLab, pandas.
-
 **[📚 biblioteca-springboot](https://github.com/cauaadev/biblioteca-springboot)**
 Sistema de gerenciamento de biblioteca com acervo, empréstimos e reservas. API REST com Java e Spring Boot.
 
