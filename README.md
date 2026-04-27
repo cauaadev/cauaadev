@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=500&lines=Cauã+Souza;Back-End+Developer;Java+%26+Spring+Boot;Data+Analysis+%26+Python" alt="Typing SVG" />
 
 <br/>
@@ -21,19 +20,9 @@
 
 </div>
 
-Gosto de transformar problemas reais em soluções simples e eficientes. Meu foco é back-end: APIs REST com Java e Spring Boot, segurança, organização de código e interação consistente com banco de dados. Paralelamente, aplico Python para análise de dados — pipelines, validações e geração automatizada de relatórios com ML.
+Sou desenvolvedor back-end com foco em Java e Spring Boot, e analista de dados com Python. Gosto de entender a teoria por trás do que estou fazendo — não só aplicar uma ferramenta, mas saber o porquê ela existe e como funciona por dentro. Isso me faz escrever código mais consciente, com camadas bem definidas, validações robustas e tratamento de erros pensado.
 
-**Atualmente estudando e aplicando:**
-- Spring Security e JUnit
-- Git e GitHub (fluxo de trabalho em equipe)
-- Linux e Docker
-- Machine Learning aplicado (scikit-learn, pandas, matplotlib)
-
-**Como trabalho:**
-- Código limpo e padronizado
-- Boas práticas (camadas bem definidas, DTOs, validações, tratamento de erros)
-- Separação de responsabilidades (SRP)
-- Comunicação clara e foco em entregar valor
+Atualmente estou me aprofundando em Java — arquitetura, padrões de projeto e boas práticas — banco de dados, modelagem e otimização de queries, Linux como ambiente de trabalho real, e Machine Learning aplicado com scikit-learn, pandas e matplotlib.
 
 ---
 
@@ -41,7 +30,6 @@ Gosto de transformar problemas reais em soluções simples e eficientes. Meu foc
 
 ### Stack
 
-<!-- Back-End -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" title="Spring Boot"/>
@@ -52,7 +40,6 @@ Gosto de transformar problemas reais em soluções simples e eficientes. Meu foc
 
 <br/><br/>
 
-<!-- Data -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy"/>
@@ -63,16 +50,11 @@ Gosto de transformar problemas reais em soluções simples e eficientes. Meu foc
 
 <br/><br/>
 
-<!-- Infra / DB -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker"/>
-&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
 &nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" title="Postman"/>
 
@@ -103,22 +85,20 @@ Gosto de transformar problemas reais em soluções simples e eficientes. Meu foc
 </div>
 
 - 📊 **[relatorio-psicologo](https://github.com/cauaadev/relatorio-psicologo)**
-  Gerador automatizado de relatórios psicológicos em PDF. Pipeline completo com **regressão linear (scikit-learn)** para detectar tendência de sessões ao longo do tempo, estatística descritiva (pandas/numpy) e classificação de perfil de engajamento do paciente. Gera gráficos embedados no PDF via matplotlib e expõe tudo via API REST com Flask.
+  Gerador automatizado de relatórios psicológicos em PDF. Pipeline completo com regressão linear (scikit-learn) para detectar tendência de sessões ao longo do tempo, estatística descritiva (pandas/numpy) e classificação de perfil de engajamento do paciente. Gera gráficos embedados no PDF via matplotlib e expõe tudo via API REST com Flask.
 
 - 📚 **[biblioteca-springboot](https://github.com/cauaadev/biblioteca-springboot)**
-  Sistema de gerenciamento de biblioteca com foco em acervo, empréstimos e reservas. API organizada e extensível com Java e Spring Boot.
+  Sistema de gerenciamento de biblioteca com acervo, empréstimos e reservas. API REST organizada e extensível com Java e Spring Boot.
 
 - 🏦 **[sistemaBancarioSimples](https://github.com/cauaadev/sistemaBancarioSimples)**
-  Simulação bancária com operações de saque e depósito, tratamento de exceções e conceitos de OO.
+  Simulação bancária com operações de saque e depósito, tratamento de exceções e conceitos de orientação a objetos.
 
 - ⏲️ **[TimerJS](https://github.com/cauaadev/TimerJS)**
-  Timer simples em JavaScript, HTML e CSS.
+  Timer em JavaScript, HTML e CSS.
 
 ---
 
 <div align="center">
-
-### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauadiniz/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauasouzadev@gmail.com)
