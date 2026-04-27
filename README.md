@@ -16,7 +16,7 @@
 
 ### 👤 Sobre mim
 
-Me chamo Cauã, tenho 18 anos e sou do Rio de Janeiro. Curso Ciência da Computação no IBMR e Análise e Desenvolvimento de Sistemas na Estácio simultaneamente. Meu foco principal é desenvolvimento back-end com Java e Spring Boot, e paralelamente atuo com análise de dados em Python — construindo pipelines, validações e relatórios automatizados com ML.
+Me chamo Cauã, tenho 18 anos. Curso Ciência da Computação no IBMR e Análise e Desenvolvimento de Sistemas na Estácio simultaneamente. Meu foco principal é desenvolvimento back-end com Java e Spring Boot, e paralelamente atuo com análise de dados em Python — construindo pipelines, validações e relatórios automatizados com ML.
 
 Gosto de entender a teoria por trás do que estou fazendo. Não me contento só em aplicar uma ferramenta — quero saber como ela funciona por dentro e por que foi criada dessa forma.
 
