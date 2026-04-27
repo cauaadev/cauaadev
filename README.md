@@ -70,7 +70,7 @@ Gosto de entender a teoria por trás do que estou fazendo. Não me contento só 
 
 ### 📂 Projetos
 
-**[📄 relatorio-psicologo](https://github.com/cauaadev/geradorDeRelatorios)**
+**[📄 geradorDeRelatorios](https://github.com/cauaadev/geradorDeRelatorios)**
 API REST para geração automatizada de relatórios médicos em PDF. Python, Flask, ReportLab, pandas.
 
 **[💈 backendBarberShop](https://github.com/cauaadev/backendBarberShop)**
