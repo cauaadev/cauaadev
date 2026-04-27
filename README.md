@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=500&lines=Cauã+Souza;Back-End+Developer;Java+%26+Spring+Boot;Data+Analysis+%26+Python" alt="Typing SVG" />
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=500&lines=Cauã+Souza;Back-End+Developer;Java+%26+Spring+Boot;Data+Analysis+%26+Python)](https://git.io/typing-svg)
 <br/>
 
 🎓 Ciência da Computação — IBMR &nbsp;|&nbsp; 🎓 ADS — Estácio
