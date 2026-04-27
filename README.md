@@ -84,7 +84,7 @@ Atualmente estou me aprofundando em Java — arquitetura, padrões de projeto e 
 </div>
 
 - 📊 **[relatorio-psicologo](https://github.com/cauaadev/relatorio-psicologo)**
-  Gerador automatizado de relatórios psicológicos em PDF. Pipeline completo com regressão linear (scikit-learn) para detectar tendência de sessões ao longo do tempo, estatística descritiva (pandas/numpy) e classificação de perfil de engajamento do paciente. Gera gráficos embedados no PDF via matplotlib e expõe tudo via API REST com Flask.
+  Gerador automatizado de relatórios psicológicos em PDF. API REST em desenvolvimento. É a minha primeira API em Python.
 
 - 📚 **[biblioteca-springboot](https://github.com/cauaadev/biblioteca-springboot)**
   Sistema de gerenciamento de biblioteca com acervo, empréstimos e reservas. API REST organizada e extensível com Java e Spring Boot.
