@@ -58,7 +58,7 @@ Gosto de entender a teoria por trás do que estou fazendo. Não me contento só 
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=cauaadev&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=4F8EF7&icon_color=4F8EF7"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaadev&layout=compact&theme=dark&hide_border=true&title_color=4F8EF7&hide=javascript,html,css&exclude_repo=TimerJS"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaadev&layout=compact&theme=dark&hide_border=true&title_color=4F8EF7&hide=javascript,html,css,jupyter+notebookhide=javascript,html,css&exclude_repo=TimerJSlangs_count=2hide=javascript,html,css&exclude_repo=TimerJSexclude_repo=TimerJS"/>
 
 <br/>
 
