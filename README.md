@@ -1,99 +1,86 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=500&lines=Cauã+Souza;Back-End+Developer;Java+%26+Spring+Boot;Data+Analysis+%26+Python)](https://git.io/typing-svg)
+<img src="https://avatars.githubusercontent.com/cauaadev" width="100" style="border-radius: 50%"/>
+
+<h1>Cauã Souza</h1>
+
+<code>Dev Back-End Java · Análise de Dados em formação</code>
+
 <br/>
 
-🎓 Ciência da Computação — IBMR &nbsp;|&nbsp; 🎓 ADS — Estácio
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=500&lines=Java+%26+Spring+Boot;Python+%26+Análise+de+Dados;Entendendo+a+teoria+por+trás+do+código)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+### 👤 Sobre mim
+
+Me chamo Cauã, tenho 18 anos e sou do Rio de Janeiro. Curso Ciência da Computação no IBMR e Análise e Desenvolvimento de Sistemas na Estácio simultaneamente. Meu foco principal é desenvolvimento back-end com Java e Spring Boot, e paralelamente atuo com análise de dados em Python — construindo pipelines, validações e relatórios automatizados com ML.
+
+Gosto de entender a teoria por trás do que estou fazendo. Não me contento só em aplicar uma ferramenta — quero saber como ela funciona por dentro e por que foi criada dessa forma.
+
+---
+
+### 🛠️ Linguagens e Tecnologias
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" title="Spring Boot"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy"/>
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" title="Scikit-learn"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>
+&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" title="Postman"/>
+
+</div>
+
+---
+
+### 📊 Estatísticas
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=cauaadev&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=4F8EF7&icon_color=4F8EF7"/>
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaadev&layout=compact&theme=dark&hide_border=true&title_color=4F8EF7"/>
+
 <br/>
-💻 Back-End com Java e Spring Boot &nbsp;|&nbsp; 📊 Análise de Dados com Python
-<br/>
-📍 Brasil • 18 anos
+
+<img src="https://github.com/cauaadev/cauaadev/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 
 </div>
 
 ---
 
-<div align="center">
+### 📂 Projetos
 
-### Sobre mim
+**[📄 relatorio-psicologo](https://github.com/cauaadev/relatorio-psicologo)**
+API REST para geração automatizada de relatórios psicológicos em PDF. Python, Flask, ReportLab, pandas.
 
-</div>
+**[📚 biblioteca-springboot](https://github.com/cauaadev/biblioteca-springboot)**
+Sistema de gerenciamento de biblioteca com acervo, empréstimos e reservas. API REST com Java e Spring Boot.
 
-Sou desenvolvedor back-end com foco em Java e Spring Boot, e analista de dados com Python. Gosto de entender a teoria por trás do que estou fazendo — não só aplicar uma ferramenta, mas saber o porquê ela existe e como funciona por dentro. Isso me faz escrever código mais consciente, com camadas bem definidas, validações robustas e tratamento de erros pensado.
+**[🏦 sistemaBancarioSimples](https://github.com/cauaadev/sistemaBancarioSimples)**
+Simulação bancária com saque, depósito, tratamento de exceções e orientação a objetos.
 
-Atualmente estou me aprofundando em Java — arquitetura, padrões de projeto e boas práticas — banco de dados, modelagem e otimização de queries, Linux como ambiente de trabalho real, e Machine Learning aplicado com scikit-learn, pandas e matplotlib.
-
----
-
-<div align="center">
-
-### Stack
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" title="Spring Boot"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
-
-<br/><br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy"/>
-&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" title="Scikit-learn"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" title="Matplotlib"/>
-
-<br/><br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux"/>
-&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" title="Postman"/>
-
-</div>
-
----
-
-<div align="center">
-
-### GitHub Stats
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=cauaadev&show_icons=true&theme=default&hide_border=true&count_private=true" />
-&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaadev&layout=compact&theme=default&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github.com/cauaadev/cauaadev/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-
-</div>
-
----
-
-<div align="center">
-
-### Projetos
-
-</div>
-
-- 📊 **[relatorio-psicologo](https://github.com/cauaadev/relatorio-psicologo)**
-  Gerador automatizado de relatórios psicológicos em PDF. API REST em desenvolvimento. É a minha primeira API em Python.
-
-- 📚 **[biblioteca-springboot](https://github.com/cauaadev/biblioteca-springboot)**
-  Sistema de gerenciamento de biblioteca com acervo, empréstimos e reservas. API REST organizada e extensível com Java e Spring Boot.
-
-- 🏦 **[sistemaBancarioSimples](https://github.com/cauaadev/sistemaBancarioSimples)**
-  Simulação bancária com operações de saque e depósito, tratamento de exceções e conceitos de orientação a objetos.
-
-- ⏲️ **[TimerJS](https://github.com/cauaadev/TimerJS)**
-  Timer em JavaScript, HTML e CSS.
+**[⏲️ TimerJS](https://github.com/cauaadev/TimerJS)**
+Timer em JavaScript, HTML e CSS.
 
 ---
 
