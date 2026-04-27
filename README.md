@@ -58,11 +58,11 @@ Gosto de entender a teoria por trás do que estou fazendo. Não me contento só 
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=cauaadev&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=4F8EF7&icon_color=4F8EF7"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaadev&layout=compact&theme=dark&hide_border=true&title_color=4F8EF7"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaadev&layout=compact&theme=dark&hide_border=true&title_color=4F8EF7&hide=javascript,html,css&exclude_repo=TimerJS"/>
 
 <br/>
 
-<img src="https://github.com/cauaadev/cauaadev/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+<img src="https://raw.githubusercontent.com/cauaadev/cauaadev/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 
 </div>
 
@@ -70,8 +70,8 @@ Gosto de entender a teoria por trás do que estou fazendo. Não me contento só 
 
 ### 📂 Projetos
 
-**[📄 geradorDeRelatorios](https://github.com/cauaadev/geradorDeRelatorios)**
-API REST para geração automatizada de relatórios médicos em PDF. Python, Flask, ReportLab, pandas.
+**[📄 relatorio-psicologo](https://github.com/cauaadev/relatorio-psicologo)**
+API REST para geração automatizada de relatórios psicológicos em PDF. Python, Flask, ReportLab, pandas.
 
 **[💈 backendBarberShop](https://github.com/cauaadev/backendBarberShop)**
 API REST monolítica para barbearia. Java, Spring Boot, arquitetura MVC e boas práticas de segurança.
