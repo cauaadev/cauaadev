@@ -2,15 +2,13 @@
 
 <img src="https://avatars.githubusercontent.com/cauaadev" width="100"/>
 
-<br/><br/>
-
 <h1>Cauã Souza</h1>
 
 <code>Back-End Developer · Data Analysis in progress</code>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=500&lines=Java+%26+Spring+Boot;Python+%26+Data+Analysis;Understanding+the+theory+behind+the+code)](https://git.io/typing-svg)
+**Java & Spring Boot · Python & Data Analysis · Understanding the theory behind the code**
 
 </div>
 
