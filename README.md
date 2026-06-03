@@ -55,11 +55,9 @@ Gosto de entender a teoria por trás do que estou fazendo. Não me contento só 
 ### 📊 Estatísticas
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=cauaadev&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=4F8EF7&icon_color=4F8EF7"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=cauaadev&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=4F8EF7&icon_color=4F8EF7&cache_seconds=86400&v=2"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaadev&layout=compact&theme=dark&hide_border=true&title_color=4F8EF7"/>
-
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaadev&layout=compact&theme=dark&hide_border=true&title_color=4F8EF7&cache_seconds=86400&v=2"/>
 <br/>
 
 <img src="https://raw.githubusercontent.com/cauaadev/cauaadev/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
