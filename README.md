@@ -55,10 +55,16 @@ Gosto de entender a teoria por trás do que estou fazendo. Não me contento só 
 ### 📊 Estatísticas
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=cauaadev&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=4F8EF7&icon_color=4F8EF7&cache_seconds=86400&v=2"/>
+
+<img src="https://streak-stats.demolab.com?user=cauaadev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=4F8EF7&ring=4F8EF7&fire=4F8EF7&currStreakLabel=4F8EF7"/>
+
+<br/><br/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=cauaadev&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=4F8EF7&icon_color=4F8EF7&cache_seconds=86400"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaadev&layout=compact&theme=dark&hide_border=true&title_color=4F8EF7&cache_seconds=86400&v=2"/>
-<br/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaadev&layout=compact&theme=dark&hide_border=true&title_color=4F8EF7&cache_seconds=86400"/>
+
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/cauaadev/cauaadev/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 
@@ -68,20 +74,17 @@ Gosto de entender a teoria por trás do que estou fazendo. Não me contento só 
 
 ### 📂 Projetos
 
-**[📄 relatorio-medico](https://github.com/cauaadev/geradorDeRelatorios)**
-API REST para geração automatizada de relatórios medico em PDF. Python, Flask, ReportLab, pandas.
+<div align="center">
 
-**[💈 backendBarberShop](https://github.com/cauaadev/backendBarberShop)**
-API REST monolítica para barbearia. Java, Spring Boot, arquitetura MVC e boas práticas de segurança.
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [📄 relatorio-medico](https://github.com/cauaadev/geradorDeRelatorios) | API REST para geração automatizada de relatórios médicos em PDF | `Python` `Flask` `ReportLab` `Pandas` |
+| [💈 backendBarberShop](https://github.com/cauaadev/backendBarberShop) | API REST monolítica para barbearia com boas práticas de segurança | `Java` `Spring Boot` `MVC` |
+| [📚 biblioteca-springboot](https://github.com/cauaadev/biblioteca-springboot) | Sistema de gerenciamento de biblioteca com acervo, empréstimos e reservas | `Java` `Spring Boot` `REST` |
+| [🏦 sistemaBancarioSimples](https://github.com/cauaadev/sistemaBancarioSimples) | Simulação bancária com saque, depósito e tratamento de exceções | `Java` `OOP` |
+| [⏲️ TimerJS](https://github.com/cauaadev/TimerJS) | Timer funcional com interface web | `JavaScript` `HTML` `CSS` |
 
-**[📚 biblioteca-springboot](https://github.com/cauaadev/biblioteca-springboot)**
-Sistema de gerenciamento de biblioteca com acervo, empréstimos e reservas. API REST com Java e Spring Boot.
-
-**[🏦 sistemaBancarioSimples](https://github.com/cauaadev/sistemaBancarioSimples)**
-Simulação bancária com saque, depósito, tratamento de exceções e orientação a objetos.
-
-**[⏲️ TimerJS](https://github.com/cauaadev/TimerJS)**
-Timer em JavaScript, HTML e CSS.
+</div>
 
 ---
 
