@@ -92,3 +92,4 @@ I like understanding the theory behind what I'm doing. I'm not satisfied just ap
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauasouzadev@gmail.com)
 
 </div>
+The person you'll be tomorrow is forged by the person you are today.
