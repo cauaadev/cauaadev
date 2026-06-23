@@ -26,7 +26,7 @@ I like understanding the theory behind what I'm doing. I'm not satisfied just ap
 
 ---
 
-### 🛠️ Languages and Technologies
+                                              ### 🛠️ Languages and Technologies
 
 <div align="center">
 
@@ -53,7 +53,6 @@ I like understanding the theory behind what I'm doing. I'm not satisfied just ap
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" title="Postman"/>
 
 </div>
----
 
 <div align="center">
 
