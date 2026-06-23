@@ -53,20 +53,6 @@ I like understanding the theory behind what I'm doing. I'm not satisfied just ap
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" title="Postman"/>
 
 </div>
-
----
-
-### 📊 Statistics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=cauaadev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=4F8EF7&ring=4F8EF7&fire=4F8EF7&currStreakLabel=4F8EF7"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/cauaadev/cauaadev/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-
-</div>
 ---
 
 <div align="center">
