@@ -27,7 +27,7 @@ I like understanding the theory behind what I'm doing. I'm not satisfied just ap
 ---
 
                                               ### 🛠️ Languages and Technologies
-
+---
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
