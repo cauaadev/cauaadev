@@ -67,23 +67,6 @@ I like understanding the theory behind what I'm doing. I'm not satisfied just ap
 <img src="https://raw.githubusercontent.com/cauaadev/cauaadev/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 
 </div>
-
----
-
-### 📂 Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [📄 relatorio-medico](https://github.com/cauaadev/geradorDeRelatorios) | REST API for automated medical report generation in PDF | `Python` `Flask` `ReportLab` `Pandas` |
-| [💈 backendBarberShop](https://github.com/cauaadev/backendBarberShop) | Monolithic REST API for a barbershop with security best practices | `Java` `Spring Boot` `MVC` |
-| [📚 biblioteca-springboot](https://github.com/cauaadev/biblioteca-springboot) | Library management system with inventory, loans and reservations | `Java` `Spring Boot` `REST` |
-| [🏦 sistemaBancarioSimples](https://github.com/cauaadev/sistemaBancarioSimples) | Banking simulation with deposits, withdrawals and exception handling | `Java` `OOP` |
-| [⏲️ TimerJS](https://github.com/cauaadev/TimerJS) | Functional timer with web interface | `JavaScript` `HTML` `CSS` |
-
-</div>
-
 ---
 
 <div align="center">
