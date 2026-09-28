@@ -16,7 +16,7 @@
 
 ### 👤 About me
 
-My name is Cauã, I'm 19 years old. I study Computer Science at IBMR and Systems Analysis and Development at Estácio simultaneously. My main focus is back-end development with Java and Spring Boot, and in parallel I work with data analysis in Python — building pipelines, validations and automated reports with ML.
+My name is Cauã. I study Computer Science at IBMR and Systems Analysis and Development at Estácio simultaneously. My main focus is back-end development with Java and Spring Boot, and in parallel I work with data analysis in Python — building pipelines, validations and automated reports with ML.
 
 I like understanding the theory behind what I'm doing. I'm not satisfied just applying a tool — I want to know how it works under the hood and why it was built that way.
 
