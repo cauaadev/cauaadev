@@ -16,13 +16,18 @@
 
 ### 👤 About me
 
-My name is Cauã. I study Computer Science at IBMR and Systems Analysis and Development at Estácio simultaneously. My main focus is back-end development with Java and Spring Boot, and in parallel I work with data analysis in Python — building pipelines, validations and automated reports with ML.
+My name is Cauã. I study Computer Science at IBMR and Systems Analysis and Development at Estácio simultaneously. I'm a back-end developer focused on Java and the Spring Boot ecosystem, building RESTful APIs and microservices backed by relational databases (MySQL, PostgreSQL).
 
-I like understanding the theory behind what I'm doing. I'm not satisfied just applying a tool — I want to know how it works under the hood and why it was built that way.
+At Hori Consultoria, I develop and maintain back-end services and APIs, and I also take care of the infrastructure behind them: AWS (EC2, RDS, VPC, EBS), Docker containers, Linux servers, network and security rules, and SSL/TLS certificates. Before that, at Nexus Profissional, I worked on REST API features and wrote automated unit and integration tests with JUnit and Mockito.
 
-💼 Software Developer Intern at Hori Consultoria
+Outside work, I built and run Nahora, a production SaaS scheduling platform for barbershops, salons and clinics. It uses Java, Spring Boot, Spring Security, MySQL and React, is hosted on AWS with Docker, and has JWT authentication with 2FA and recurring billing.
+
+I like understanding the theory behind what I'm doing. I'm not satisfied just applying a tool — I want to know how it works under the hood and why it was built that way. That's why I care about SOLID, Clean Code and layered architecture.
+
+💼 Back-End Developer Intern at Hori Consultoria
 
 📍 Rio de Janeiro, BR
+
 
 ---
 
