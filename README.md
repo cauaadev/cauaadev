@@ -8,7 +8,7 @@
 
 <br/>
 
-**Java & Spring Boot · Python & Data Analysis · Understanding the theory behind the code**
+**Java & Spring Boot · Understanding the theory behind the code**
 
 </div>
 
